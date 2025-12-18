@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://oprain.com"
+base_url = "https://oprain.github.io"
 
 title = "Oprain"
 author = "Sol Wang"
