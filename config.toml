@@ -37,7 +37,7 @@ author_image = '/assets/board_members/Sol_Wang_avatar.png'
 
 navigation = [
     { url = "$BASE_URL", title = "Home" },
-    { url = "$BASE_URL/products", title = "Products" },
+    { url = "$BASE_URL/projects", title = "Products" },
     { url = "$BASE_URL/posts", title = "Blog" },
     { url = "$BASE_URL/tags", title = "Tags" },
     { url = "", title = "Pages", submenu = [
