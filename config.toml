@@ -27,13 +27,13 @@ taxonomies = [
 highlight_code = true
 
 [extra]
-logo_image = "assets/logo/oprain_text.svg"
+logo_image = "assets/logo/text_black.svg"
 social_media_share_image = "assets/board_members/Sol_Wang_avatar.png"
 disqus_identifier = ""
 google_analytics = ""
 twitter_handle = ""
 
-author_image = '/assets/logo/oprain_logo.png'
+author_image = '/assets/logo/white_boarder.png'
 
 navigation = [
     { url = "$BASE_URL", title = "Home" },
@@ -76,7 +76,7 @@ menu = [
 block = "hero"
 title = "Hi there, We are Oprain"
 description_html = "A company that dedicated to build <strong>open-source hardware</strong> for <strong>Neuroscience</strong> and <strong>Brain-Machine Interface</strong> with well software support and world-wide community." # We also collaborate with the top-tier laboratories in the world to discover all the new possibilities inside our brain."
-image = "/assets/main_page/oprain_logo.png"
+image = "/assets/logo/white_boarder.png"
 image_alt = "Oprain's logo"
 cta_button_link = "#contact"
 cta_button = "Get in touch"
